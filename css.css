@@ -1,0 +1,23 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	background-color: pink
+}
+h1 {
+	text-align: center;
+	background-color: lightblue;
+}
+ul1 {
+	list-style-type: circle;
+	text-align: center;
+}
+h2 {
+	margin: auto;
+	width: 25%;
+	padding: 100px;
+}
